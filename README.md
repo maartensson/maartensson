@@ -1,16 +1,51 @@
-## Hi there 👋
+### 👋
 
-<!--
-**maartensson/maartensson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux-first systems builder.
 
-Here are some ideas to get you started:
+I work close to the OS: networking, services, and infrastructure that I can
+*reason about, reproduce, and debug*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧩 Current focus
+
+- NixOS & flakes for reproducible systems
+- systemd + nspawn containers
+- networking-heavy services
+- observability and metrics
+
+---
+
+### 🛠 How I build
+
+- bottom-up: host → containers → services → interfaces
+- minimal abstractions
+- boring, explicit designs
+- tools that survive real-world operation
+
+---
+
+### 💡 Interfaces
+
+- small Android apps when a UI helps
+- simple web frontends as control surfaces
+- utilities for everyday problems
+
+---
+
+### 🧪 Code
+
+- Go (primary)
+- Kotlin/JetpackCompose (android)
+- HTML/Tailwind (web)
+
+---
+
+### 🌱
+
+Interested in Linux internals, secure-by-default setups,
+and infrastructure that doesn’t hide complexity.
+
+---
+
+<sub>Open to interesting work & collaborations.</sub>
